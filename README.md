@@ -10,6 +10,7 @@ Claude Code mods made at Accordion. This repository is a plugin marketplace: add
 | [handoff](plugins/handoff) | `/handoff` (or its offer when the chat is 60% full) writes a note on what's done, what's next and which files matter to `.claude/handoffs/`, then starts a fresh chat from it. From WeAreNoCode. |
 | [team-tracker](plugins/team-tracker) | `/team` opens a pane with a progress bar for the to-do list and every helper agent Claude sends off: what it's on, how long it has run and a rough cost. From WeAreNoCode. |
 | [reflect](plugins/reflect) | When you correct Claude, offers to save the correction as a rule in the project's or your CLAUDE.md, or in a skill. Writes only when you press Save. From WeAreNoCode. |
+| [brain-dump](plugins/brain-dump) | Holds a long message (about 120 words or more), sorts it into goal, facts and asks, asks up to three questions, then sends the clean version. Start a message with `go:` to skip it. From WeAreNoCode. |
 
 ## Install
 

@@ -36,6 +36,11 @@
       "name": "reflect",
       "source": "./plugins/reflect",
       "description": "Catches a correction like 'never do that' and offers to save it as a permanent rule in CLAUDE.md or a skill."
+    },
+    {
+      "name": "brain-dump",
+      "source": "./plugins/brain-dump",
+      "description": "Holds a long message, sorts it into goal, facts and asks, asks up to three questions, then sends the clean version."
     }
   ]
 }

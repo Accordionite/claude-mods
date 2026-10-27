@@ -1,0 +1,9 @@
+{
+  "name": "brain-dump",
+  "version": "0.1.0",
+  "description": "Holds a long ramble, sorts it into goal, facts and asks, asks up to three questions, then sends the clean version. Timestamped edit notes go straight through as a numbered list.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "WeAreNoCode"
+  }
+}
