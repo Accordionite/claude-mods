@@ -6,6 +6,7 @@ Claude Code mods made at Accordion. This repository is a plugin marketplace: add
 | --- | --- |
 | [hockey-avatar](plugins/hockey-avatar) | Clawd plays hockey on a rink above the prompt, with the Accordion emblem at center ice. `/rink` shows the score. |
 | [token-ledger](plugins/token-ledger) | A status line under the prompt with the session cost, the last turn's tokens and the cache hit ratio. `/ledger` shows a table of recent turns. From [Arunjay4213/claude-mods](https://github.com/Arunjay4213/claude-mods). |
+| [blast-radius-win](plugins/blast-radius-win) | Holds a risky shell command (`rm -rf`, `git reset --hard`, force push, migrations) and shows what it would change, with **Proceed** and **Cancel** buttons. Anthropic's [blast-radius](https://github.com/anthropics/claude-code-playground/tree/main/claude-code/mods/blast-radius), patched to run on Windows. |
 
 ## Install
 

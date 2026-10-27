@@ -12,6 +12,11 @@
       "name": "token-ledger",
       "source": "./plugins/token-ledger",
       "description": "Per-turn cost and token ledger: a pinned status line with session cost and cache hit ratio; /ledger shows recent turns."
+    },
+    {
+      "name": "blast-radius-win",
+      "source": "./plugins/blast-radius-win",
+      "description": "Holds risky shell commands (rm -rf, git reset --hard, force push, migrations) and shows what they would change, with Proceed and Cancel. Patched for Windows."
     }
   ]
 }
