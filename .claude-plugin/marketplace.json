@@ -31,6 +31,11 @@
       "name": "team-tracker",
       "source": "./plugins/team-tracker",
       "description": "A /team pane: to-do progress bar and every helper agent Claude sends off, with runtime and rough cost."
+    },
+    {
+      "name": "reflect",
+      "source": "./plugins/reflect",
+      "description": "Catches a correction like 'never do that' and offers to save it as a permanent rule in CLAUDE.md or a skill."
     }
   ]
 }
