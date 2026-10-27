@@ -1,6 +1,8 @@
 # Reflect
 
 > **Source.** From Christian Peverelli's WeAreNoCode mod bundle (`wearenocode-claude-mods.zip`, version 0.1.0, built on Claude Code 2.1.308), copied unchanged apart from this note. The bundle came with no license.
+>
+> Install: `claude plugin install reflect --marketplace Accordionite/claude-mods`
 
 Reflect turns your corrections into rules Claude keeps.
 

@@ -1,6 +1,8 @@
 # Handoff
 
 > **Source.** From Christian Peverelli's WeAreNoCode mod bundle (`wearenocode-claude-mods.zip`, version 0.1.0, built on Claude Code 2.1.308), copied unchanged apart from this note. The bundle came with no license.
+>
+> Install: `claude plugin install handoff --marketplace Accordionite/claude-mods`
 
 Long chats get slow, pricey and forgetful. Handoff moves your work to a fresh chat without losing the thread.
 

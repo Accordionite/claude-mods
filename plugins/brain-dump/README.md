@@ -1,6 +1,8 @@
 # Brain Dump
 
 > **Source.** From Christian Peverelli's WeAreNoCode mod bundle (`wearenocode-claude-mods.zip`, version 0.1.0, built on Claude Code 2.1.308), copied unchanged apart from this note. The bundle came with no license.
+>
+> Install: `claude plugin install brain-dump --marketplace Accordionite/claude-mods`
 
 When you send a long message (about 120 words or more), Brain Dump holds it for a few seconds and sorts it into the goal, the facts and what you're asking for. It asks you up to three questions, and only where your message could go two ways. A band above the prompt shows the clean version with a box for each answer. Press Send, or "Send my words" to send your original, or Edit to change it first.
 
