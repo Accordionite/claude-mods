@@ -1,0 +1,7 @@
+{
+  "name": "handoff",
+  "version": "0.1.0",
+  "description": "/handoff writes what's done, what's next, what's unsure and which files matter, then starts a fresh chat from that note",
+  "author": { "name": "WeAreNoCode" },
+  "types": "./types/index.d.ts"
+}
