@@ -1,0 +1,31 @@
+# claude-mods
+
+Claude Code mods made at Accordion. This repository is a plugin marketplace: add it once, then install any mod in it.
+
+| Mod | What it does |
+| --- | --- |
+| [hockey-avatar](plugins/hockey-avatar) | Clawd plays hockey on a rink above the prompt, with the Accordion emblem at center ice. `/rink` shows the score. |
+
+## Install
+
+The repository is private: you need read access to it on GitHub, and GitHub set up on your computer (GitHub Desktop, or `gh auth login` then `gh auth setup-git`).
+
+In the Claude desktop app: click **+** next to the prompt box, then **Plugins**, then **Add marketplace** with `Accordionite/claude-mods`, then **Add plugin** and choose **hockey-avatar**. Start a new Code tab session.
+
+At the prompt of a terminal session:
+
+```
+/plugin install hockey-avatar --marketplace Accordionite/claude-mods
+```
+
+From a shell:
+
+```
+claude plugin install hockey-avatar --marketplace Accordionite/claude-mods
+```
+
+If you installed hockey-avatar from a zip or folder before, remove that copy and its marketplace first (+ > Plugins), then install from here.
+
+## Adding a mod
+
+Put it in `plugins/<mod-name>/` and add an entry for it to `.claude-plugin/marketplace.json`. Bump `version` in a mod's `plugin.json` whenever you change it, so installs pick up the change.

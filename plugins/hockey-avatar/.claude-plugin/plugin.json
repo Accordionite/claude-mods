@@ -1,0 +1,1 @@
+{ "name": "hockey-avatar", "version": "0.2.1", "description": "A hockey-playing Claude avatar above the prompt: skates while working, scores a goal when a turn completes.", "types": "./types/index.d.ts" }

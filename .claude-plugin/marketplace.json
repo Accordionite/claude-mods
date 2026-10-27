@@ -1,0 +1,12 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Accordion" },
+  "metadata": { "description": "Claude Code mods made at Accordion." },
+  "plugins": [
+    {
+      "name": "hockey-avatar",
+      "source": "./plugins/hockey-avatar",
+      "description": "Clawd plays hockey on a rink above the prompt; /rink shows the score."
+    }
+  ]
+}
