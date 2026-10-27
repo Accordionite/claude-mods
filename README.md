@@ -5,6 +5,7 @@ Claude Code mods made at Accordion. This repository is a plugin marketplace: add
 | Mod | What it does |
 | --- | --- |
 | [hockey-avatar](plugins/hockey-avatar) | Clawd plays hockey on a rink above the prompt, with the Accordion emblem at center ice. `/rink` shows the score. |
+| [token-ledger](plugins/token-ledger) | A status line under the prompt with the session cost, the last turn's tokens and the cache hit ratio. `/ledger` shows a table of recent turns. From [Arunjay4213/claude-mods](https://github.com/Arunjay4213/claude-mods). |
 
 ## Install
 

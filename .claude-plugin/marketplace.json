@@ -7,6 +7,11 @@
       "name": "hockey-avatar",
       "source": "./plugins/hockey-avatar",
       "description": "Clawd plays hockey on a rink above the prompt; /rink shows the score."
+    },
+    {
+      "name": "token-ledger",
+      "source": "./plugins/token-ledger",
+      "description": "Per-turn cost and token ledger: a pinned status line with session cost and cache hit ratio; /ledger shows recent turns."
     }
   ]
 }
