@@ -1,0 +1,9 @@
+{
+  "name": "team-tracker",
+  "version": "0.1.0",
+  "description": "A Team pane: a progress bar for the to-do list and every helper Claude sends off, with what it works on, how long it has run and roughly what it costs",
+  "author": {
+    "name": "WeAreNoCode"
+  },
+  "types": "./types/index.d.ts"
+}

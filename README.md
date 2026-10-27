@@ -8,6 +8,7 @@ Claude Code mods made at Accordion. This repository is a plugin marketplace: add
 | [token-ledger](plugins/token-ledger) | A status line under the prompt with the session cost, the last turn's tokens and the cache hit ratio. `/ledger` shows a table of recent turns. From [Arunjay4213/claude-mods](https://github.com/Arunjay4213/claude-mods). |
 | [blast-radius-win](plugins/blast-radius-win) | Holds a risky shell command (`rm -rf`, `git reset --hard`, force push, migrations) and shows what it would change, with **Proceed** and **Cancel** buttons. Anthropic's [blast-radius](https://github.com/anthropics/claude-code-playground/tree/main/claude-code/mods/blast-radius), patched to run on Windows. |
 | [handoff](plugins/handoff) | `/handoff` (or its offer when the chat is 60% full) writes a note on what's done, what's next and which files matter to `.claude/handoffs/`, then starts a fresh chat from it. From WeAreNoCode. |
+| [team-tracker](plugins/team-tracker) | `/team` opens a pane with a progress bar for the to-do list and every helper agent Claude sends off: what it's on, how long it has run and a rough cost. From WeAreNoCode. |
 
 ## Install
 

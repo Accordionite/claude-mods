@@ -26,6 +26,11 @@
       "name": "handoff",
       "source": "./plugins/handoff",
       "description": "/handoff writes what's done, what's next and which files matter, then starts a fresh chat from that note."
+    },
+    {
+      "name": "team-tracker",
+      "source": "./plugins/team-tracker",
+      "description": "A /team pane: to-do progress bar and every helper agent Claude sends off, with runtime and rough cost."
     }
   ]
 }
